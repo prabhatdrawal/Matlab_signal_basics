@@ -1,3 +1,8 @@
+The output of the above illustrated matlab program can be observed as below:
+
+
+
+
 
 ### **Analog Signal Modulation – Theory and MATLAB Simulation**
 
